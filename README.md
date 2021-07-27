@@ -1,6 +1,4 @@
-# web-scraping-challenge
-
-Hello,
+# mission_to_mars
 
 1. This repository contains the requested Jupyter notebook containing the scraping code, it's named "mision_to_mars"
 
